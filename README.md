@@ -8,7 +8,6 @@ The project uses Python and Scikit-learn to build a classification model and pro
 
 Note: This project uses synthetic data for demonstration. Its predictions have not been validated on real-world company workflow data.
 
-
 Features:
 
 Synthetic workflow dataset generation,
@@ -26,7 +25,6 @@ Google Colab / Jupyter Notebook,
 ipywidgets,
 Joblib.
 
-
 Installation and Usage:
 
 Open the notebook in Google Colab.
@@ -35,11 +33,9 @@ Run the cells in order.
 
 The notebook generates synthetic data, trains the model, evaluates its performance, and provides an interactive prediction interface.
 
-
 Model Evaluation:
 
 The notebook displays classification metrics and a confusion matrix. Add the actual results from your executed notebook here.
-
 
 Limitations:
 
